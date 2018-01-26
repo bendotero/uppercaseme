@@ -16,7 +16,7 @@
 		"uppercaseme" : "./bin/uppercaseme"
 	},
 	"dependencies" : {},
-	"engines" {
+	"engines" : {
 		"node" : "*"
 	}
 }
